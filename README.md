@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahFrey29
 - 👀 I’m interested in software development and automation
-- 🌱 I’m currently learning about automating web tests using Selenium, Kotlin, and Gherkin
+- 🌱 I’m currently learning as much as I can about the software development life cycle, Spring Boot, Java, Python, Javascript and cool technologies like Docker!
 - 📫 Please reach me at noahfrey29@gmail.com or https://www.linkedin.com/in/29-noah-frey/
 - 😄 Pronouns: he/him
 
